@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 activeProfiles=Maven
 eclipse.m2.autoUpdateProjects=true
+=======
+activeProfiles=
+>>>>>>> branch 'master' of https://github.com/Erohsik275/Automation.GitPractice.git
 eclipse.preferences.version=1
 resolveWorkspaceProjects=true
 version=1
