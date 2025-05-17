@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-<<<<<<< HEAD
+
   <groupId>Automation_ID_001</groupId>
   <artifactId>Automation_ID_001</artifactId>
   <version>0.0.1-SNAPSHOT</version>
@@ -41,9 +41,10 @@
   
   </dependencies>
   
-=======
+<!--
   <groupId>Sample_project</groupId>
   <artifactId>Sample_project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
->>>>>>> branch 'master' of https://github.com/Erohsik275/Automation.GitPractice.git
+  -->
+  
 </project>
