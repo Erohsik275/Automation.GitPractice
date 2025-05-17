@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Flipkart_Automation</name>
+=======
+	<name>Sample_project</name>
+>>>>>>> branch 'master' of https://github.com/Erohsik275/Automation.GitPractice.git
 	<comment></comment>
 	<projects>
 	</projects>
